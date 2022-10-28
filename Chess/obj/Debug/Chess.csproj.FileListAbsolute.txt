@@ -1,0 +1,7 @@
+D:\UIT\HKI-2022\LTTQ\ConsoleApp1\Chess\bin\Debug\Chess.exe.config
+D:\UIT\HKI-2022\LTTQ\ConsoleApp1\Chess\bin\Debug\Chess.exe
+D:\UIT\HKI-2022\LTTQ\ConsoleApp1\Chess\bin\Debug\Chess.pdb
+D:\UIT\HKI-2022\LTTQ\ConsoleApp1\Chess\obj\Debug\Chess.csproj.AssemblyReference.cache
+D:\UIT\HKI-2022\LTTQ\ConsoleApp1\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+D:\UIT\HKI-2022\LTTQ\ConsoleApp1\Chess\obj\Debug\Chess.exe
+D:\UIT\HKI-2022\LTTQ\ConsoleApp1\Chess\obj\Debug\Chess.pdb
